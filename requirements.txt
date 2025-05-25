@@ -1,0 +1,14 @@
+unidecode
+pyspellchecker
+pandas
+numpy
+matplotlib
+seaborn
+plotly-express
+spacy
+nltk
+transformers
+torch
+pysentimiento
+scikit-learn
+xgboost
